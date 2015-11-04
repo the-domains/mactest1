@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.4752181
+color:
+  saturation: 0.1629097
+  brandStrength: 0.9284843
+  lightness: 0.5050632
+  brandColors:
+    - '#FFFFFF'
+    - '#010000'
+    - '#BDB9B9'
+    - '#CF2925'
+    - '#883025'
+  rhythmicContrast: 0.3248519
+name: Mactest1
